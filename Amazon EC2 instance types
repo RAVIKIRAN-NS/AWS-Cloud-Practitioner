@@ -1,0 +1,10 @@
+Amazon EC2 instance types
+
+Amazon EC2 instance types(opens in a new tab) are optimized for different tasks. When selecting an instance type, consider the specific needs of your workloads and applications.
+This might include requirements for compute, memory, or storage capabilities.
+
+1.General purpose instances.
+2.Compute optimized instances.
+3.Memory optimized instances.
+4.Accelerated computing instances.
+5.Storage optimized instances.
