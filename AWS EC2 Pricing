@@ -2,8 +2,17 @@ With Amazon EC2, you pay only for the compute time that you use. Amazon EC2 offe
 
 There are  five categories
 
-1. On-Demand Instances
-2. Reserved Instances 
+1. On-Demand Instances : On-Demand Instances are ideal for short-term, irregular workloads that cannot be interrupted. No upfront costs or minimum contracts apply. The instances run continuously until you stop them, and you pay for only the compute time you use.
+
+Sample use cases for On-Demand Instances include developing and testing applications and running applications that have unpredictable usage patterns. On-Demand Instances are not recommended for workloads that last a year or longer because these workloads can experience greater cost savings using Reserved Instances.
+
+2. Reserved Instances : Reserved Instances are a billing discount applied to the use of On-Demand Instances in your account. There are two available types of Reserved Instances:
+
+a) Standard Reserved Instances: This option is a good fit if you know the EC2 instance type and size you need for your steady-state applications and in which AWS Region you plan to run them.
+
+b) Convertible Reserved Instances: If you need to run your EC2 instances in different Availability Zones or different instance types, then Convertible Reserved Instances might be right for you. Note: You trade in a deeper discount when you require flexibility to run your EC2 instances.
+
+
 3. EC2 Instance Savings Plans
 4. Spot Instances 
 5. Dedicated Hosts 
