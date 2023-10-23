@@ -16,4 +16,4 @@ b) Convertible Reserved Instances: If you need to run your EC2 instances in diff
 
 4. Spot Instances : Spot Instances are ideal for workloads with flexible start and end times, or that can withstand interruptions. Spot Instances use unused Amazon EC2 computing capacity and offer you cost savings at up to 90% off of On-Demand prices.
 
-5. Dedicated Hosts : Dedicated Hosts are physical servers with Amazon EC2 instance capacity that is fully dedicated to your use
+5. Dedicated Hosts : Dedicated Hosts are physical servers with Amazon EC2 instance capacity that is fully dedicated to your use.
